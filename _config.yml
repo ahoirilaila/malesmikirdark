@@ -3,7 +3,7 @@
 
 title: Males Mikir | Mari berpikir!
 description: Males Mikir adalah website yang membantu orang-orang yang terlalu santuy agar mau mikir. Walaupun sedikit, setidaknya sudah mikir. # this means to ignore newlines until "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/malesmikirdark" # the subpath of your site, e.g. /blog
 url: "https://malesmikir.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
